@@ -1,0 +1,10 @@
+name_var = ["Suraj", "sachin", "sohan", "Rahul"]
+for name in name_var:
+    if name.startswith("S") or name.startswith("s"):
+        print("Hello " + name)
+# Comment line 1,2,3,4 if you want to use the second program. 
+
+# second_program
+# Uncomment line 9 & 10 if you want to greet the input Names.
+# name_var2 = input("Enter your name : ")
+# print(f"Hello {name_var2}")
